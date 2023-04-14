@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PallavJain01](https://github.com/PallavJain01)
+- 👨‍💻 All of my projects are available at [https://github.com/PallavJain01](https://github.com/PallavJain01?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
