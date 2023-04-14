@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavjain01&show_icons=true&locale=en&layout=compact&theme=dark" alt="pallavjain01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavjain01&show_icons=true&locale=en&count_private=true&theme=dark&custom_title=Github Stats&count_all_commits=true" alt="pallavjain01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavjain01&show_icons=true&locale=en&count_private=true&theme=dark" alt="pallavjain01" /></p>
