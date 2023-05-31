@@ -50,3 +50,9 @@
 	&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavjain01&show_icons=true&locale=en&count_private=true&theme=dark" alt="pallavjain01" />
 </p>
+
+## Recent Contributions
+
+Repository Name|Repository Owner|Date of latest Contribution
+-|-|-
+[peer-to-peer](https://github.com/JeffC25/peer-to-peer) | [JeffC25](https://github.com/JeffC25) | May 21 2023
