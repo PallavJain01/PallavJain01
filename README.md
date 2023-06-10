@@ -56,3 +56,4 @@
 Repository Name|Repository Owner|Date of latest Contribution
 -|-|-
 [peer-to-peer](https://github.com/JeffC25/peer-to-peer) | [JeffC25](https://github.com/JeffC25) | May 21 2023
+[resources](https://github.com/NisooJadhav/resources) | [NisooJadhav](https://github.com/NisooJadhav) | May 31 2023
