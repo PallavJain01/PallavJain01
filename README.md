@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at my **[Github Profile](https://github.com/PallavJain01?tab=repositories)**
 
 
-<h3 align="left">Languages:</h3>
+### Languages:
 <p align="left">
 	
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -36,8 +36,15 @@
     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java"
       width="40" height="40" />
   </a><br />
+	
+### Tools
+	
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+	
+  <a href="https://code.visualstudio.com" target="_blank" red="noreferrer">
+    <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS code" width="40" height="40" />
   </a>
 
 </p>
