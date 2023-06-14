@@ -68,4 +68,4 @@ Repository Name|Repository Owner|Date of contributions
 
 ---
 
-![Discord](https://img.shields.io/endpoint?url=https://untitled-lcmeqohsmx0f.runkit.sh&)
+[![Discord](https://img.shields.io/endpoint?url=https://untitled-lcmeqohsmx0f.runkit.sh&)](https://discord.com/app)
