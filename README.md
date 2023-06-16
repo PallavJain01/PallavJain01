@@ -67,5 +67,6 @@ Repository Name|Repository Owner|Date of contributions|-----↴
 [Arrays-DSA-Coding-Questions](https://github.com/CodingWallah/Arrays-DSA-Coding-Questions) | [CodingWallah](https://github.com/CodingWallah) | June 10 2023 | June 13 2023
 
 ---
-
-[![Discord](https://img.shields.io/endpoint?url=https://untitled-lcmeqohsmx0f.runkit.sh&)](https://discordapp.com/users/1110533291800547379)
+[![Discord](https://img.shields.io/endpoint?url=https://untitled-lcmeqohsmx0f.runkit.sh)](https://discordapp.com/users/1110533291800547379) &nbsp;&nbsp;&nbsp;
+[![Leetcode](https://img.shields.io/endpoint?url=https://untitled-hj4tbtn4292z.runkit.sh)](https://leetcode.com/PallavJain01/) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/endpoint?url=https://untitled-13p4ewxt9l87.runkit.sh)](https://www.linkedin.com/in/pallav-jain-860846275/) &nbsp;&nbsp;&nbsp;
