@@ -32,7 +32,7 @@
 	
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="./Assets/git.png" alt="git"
-    width="40" height="40" />
+	 height="40" />
   </a>
 	<a href="https://code.visualstudio.com" target="_blank" red="noreferrer">
     <img src="./Assets/vscode.png" alt="Vs code"
