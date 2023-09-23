@@ -61,4 +61,6 @@ Repository Name|Repository Owner|Date of contributions|-----↴
 
 </div>
 
+## [pallavjain01.github.io/web-learning](https://pallavjain01.github.io/web-learning)
+
 ![](https://hit.yhype.me/github/profile?user_id=123300427)
