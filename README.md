@@ -41,7 +41,7 @@
 <p>
 <a href="https://www.github.com/PallavJain01">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavjain01&show_icons=true&locale=en&layout=compact&theme=dark"
-    alt="pallavjain01" height=180 /></a>&nbsp;&nbsp;<a href="https://www.github.com/PallavJain01"><img src="https://github-readme-stats.vercel.app/api?username=pallavjain01&show_icons=true&locale=en&count_private=true&theme=dark"
+    alt="pallavjain01" height=180 /></a>&nbsp;&nbsp;<br><a href="https://www.github.com/PallavJain01"><img src="https://github-readme-stats.vercel.app/api?username=pallavjain01&show_icons=true&locale=en&count_private=true&theme=dark"
     alt="pallavjain01" height=180 /></a>
 </p>
 
