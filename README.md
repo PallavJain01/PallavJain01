@@ -45,18 +45,9 @@
     alt="pallavjain01" height=180 /></a>
 </p>
 
-## Recent Contributions
-
-Repository Name|Repository Owner|Date of contributions|-----↴
--|-|-|-
-[peer-to-peer](https://github.com/JeffC25/peer-to-peer) | [JeffC25](https://github.com/JeffC25) | April 13 2023 | May 21 2023
-[resources](https://github.com/NisooJadhav/resources) | [NisooJadhav](https://github.com/NisooJadhav) | May 31 2023 | June 1 2023
-[Arrays-DSA-Coding-Questions](https://github.com/CodingWallah/Arrays-DSA-Coding-Questions) | [CodingWallah](https://github.com/CodingWallah) | June 10 2023 | June 13 2023
-
----
 <br />
 
-[![Discord](https://img.shields.io/endpoint?url=https://untitled-lcmeqohsmx0f.runkit.sh)](https://discordapp.com/users/1110533291800547379) &nbsp;&nbsp;&nbsp;[![Leetcode](https://img.shields.io/endpoint?url=https://untitled-hj4tbtn4292z.runkit.sh)](https://leetcode.com/PallavJain01/) &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/endpoint?url=https://untitled-13p4ewxt9l87.runkit.sh)](https://www.linkedin.com/in/pallav-jain-860846275/) &nbsp;&nbsp;&nbsp;
+[![Leetcode](https://img.shields.io/endpoint?url=https://untitled-hj4tbtn4292z.runkit.sh)](https://leetcode.com/PallavJain01/) &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/endpoint?url=https://untitled-13p4ewxt9l87.runkit.sh)](https://www.linkedin.com/in/pallav-jain-860846275/) &nbsp;&nbsp;&nbsp;
 
 
 </div>
