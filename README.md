@@ -22,8 +22,7 @@
 
 <br />
 
-[![Leetcode](https://img.shields.io/endpoint?url=https://untitled-hj4tbtn4292z.runkit.sh)](https://leetcode.com/PallavJain01/) &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/endpoint?url=https://untitled-13p4ewxt9l87.runkit.sh)](https://www.linkedin.com/in/pallav-jain-860846275/) &nbsp;&nbsp;&nbsp;
-
+[![Leetcode](https://img.shields.io/endpoint?url=https://untitled-hj4tbtn4292z.runkit.sh)](https://leetcode.com/PallavJain01/) &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/endpoint?url=https://untitled-13p4ewxt9l87.runkit.sh)](https://www.linkedin.com/in/pallav-jain-860846275/) &nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/endpoint?url=https://untitled-2320zupuihkp.runkit.sh)](https://mail.google.com)
 
 </div>
 
