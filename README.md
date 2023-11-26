@@ -1,7 +1,8 @@
+<div align="center">
+	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1EAC03&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B;I+am+Pallav+Jain;I+am+currently+learning+About+Web;Have+a+good+day😀)](https://git.io/typing-svg)
 
 
-<div align="center">
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=pallavjain01&label=Profile%20views&color=blueviolet&style=flat&label=Profile%20Visits&style=for-the-badge)](https://github.com/PallavJain01)
 
@@ -24,8 +25,9 @@
 
 [![Leetcode](https://img.shields.io/endpoint?url=https://untitled-hj4tbtn4292z.runkit.sh)](https://leetcode.com/PallavJain01/) &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/endpoint?url=https://untitled-13p4ewxt9l87.runkit.sh)](https://www.linkedin.com/in/pallav-jain-860846275/) &nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/endpoint?url=https://untitled-2320zupuihkp.runkit.sh)](https://mail.google.com)
 
-</div>
 
-## [pallavjain01.github.io/web-learning](https://pallavjain01.github.io/web-learning)
+## [Website](https://pallavjain01.github.io/web-learning)
+
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=123300427)
