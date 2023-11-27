@@ -8,11 +8,11 @@
 
 ### Languages:
 
-  <p align="center"><a href="https://www.github.com/PallavJain01"><img src="https://skillicons.dev/icons?i=html,css,js,python,java" /></a></p>
+  <p align="center"><a aria-label="languages that i feel comfortable with" href="https://www.github.com/PallavJain01"><img alt="languages" src="https://skillicons.dev/icons?i=html,css,js,python,java" /></a></p>
 
 ### Tools:
 
-  <p align="center"><a href="https://www.github.com/PallavJain01"><img src="https://skillicons.dev/icons?i=git,vscode" /></a></p>
+  <p align="center"><a aria-label="tools that i use on a regular basis" href="https://www.github.com/PallavJain01"><img alt="tools" src="https://skillicons.dev/icons?i=git,vscode" /></a></p>
 
 <p>
 <a href="https://www.github.com/PallavJain01">
