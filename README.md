@@ -5,7 +5,7 @@
 
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=pallavjain01&label=Profile%20views&color=blueviolet&style=flat&label=Profile%20Visits&style=for-the-badge)](https://github.com/PallavJain01)
-
+[![wakatime](https://wakatime.com/badge/user/c6903ac3-4ea6-4685-a5e4-549e2ed87a24.svg?style=for-the-badge)](https://wakatime.com/@c6903ac3-4ea6-4685-a5e4-549e2ed87a24)
 ### Languages:
 
   <p align="center"><a aria-label="languages that i feel comfortable with" href="https://www.github.com/PallavJain01"><img alt="languages" src="https://skillicons.dev/icons?i=html,css,js,python,java" /></a></p>
