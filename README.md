@@ -8,16 +8,10 @@
 [![wakatime](https://wakatime.com/badge/user/c6903ac3-4ea6-4685-a5e4-549e2ed87a24.svg?style=for-the-badge)](https://wakatime.com/@c6903ac3-4ea6-4685-a5e4-549e2ed87a24)
 ### Languages:
 
-  <p align="center"><a aria-label="languages that i feel comfortable with" href="https://www.github.com/PallavJain01"><img alt="languages" src="https://skillicons.dev/icons?i=html,css,js,python,java" /></a></p>
+  <p align="center"><a aria-label="languages that i feel comfortable with" href="https://www.github.com/PallavJain01"><img alt="languages" src="https://skillicons.dev/icons?i=html,css,js,python,java,rust" /></a></p>
 
 ### Tools:
 
   <p align="center"><a aria-label="tools that i use on a regular basis" href="https://www.github.com/PallavJain01"><img alt="tools" src="https://skillicons.dev/icons?i=git,vscode" /></a></p>
 
-<p>
-<a href="https://www.github.com/PallavJain01">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavjain01&show_icons=true&locale=en&layout=compact&theme=dark"
-    alt="pallavjain01" height=180 /></a>&nbsp;&nbsp;<br><a href="https://www.github.com/PallavJain01"><img src="https://github-readme-stats.vercel.app/api?username=pallavjain01&show_icons=true&locale=en&count_private=true&theme=dark"
-    alt="pallavjain01" height=180 /></a>
-</p>
 </div>
