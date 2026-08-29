@@ -8,10 +8,10 @@
 [![wakatime](https://wakatime.com/badge/user/c6903ac3-4ea6-4685-a5e4-549e2ed87a24.svg?style=for-the-badge)](https://wakatime.com/@c6903ac3-4ea6-4685-a5e4-549e2ed87a24)
 ### Languages:
 
-  <p align="center"><a aria-label="languages that i feel comfortable with" href="https://www.github.com/PallavJain01"><img alt="languages" src="https://skillicons.dev/icons?i=html,css,js,python,java,rust" /></a></p>
+  <p align="center"><a aria-label="languages that I feel comfortable with" href="https://www.github.com/PallavJain01"><img alt="languages" src="https://skillicons.dev/icons?i=java,rust,js" /></a></p>
 
 ### Tools:
 
-  <p align="center"><a aria-label="tools that i use on a regular basis" href="https://www.github.com/PallavJain01"><img alt="tools" src="https://skillicons.dev/icons?i=git,vscode" /></a></p>
+  <p align="center"><a aria-label="tools that I use on a regular basis" href="https://www.github.com/PallavJain01"><img alt="tools" src="https://skillicons.dev/icons?i=git,vscode,idea,obsidian" /></a></p>
 
 </div>
